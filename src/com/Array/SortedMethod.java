@@ -15,6 +15,7 @@ public class SortedMethod {
 		for (int i = rollno.length - 1; i >= 0; i--) {
 			for (int j = rollno.length - 1; j >= 0; j--)
 				System.out.println(rollno[i][j]);
+			
 
 		}
 
